@@ -15,11 +15,11 @@ The Unix shell has been around longer than most of its users have been alive. It
 
 Who: 
 
-Where: Tomás Rivera Li, 900 University Ave., Riverside, CA 92521. Get directions with OpenStreetMap or Google Maps.
+Where: Langson Library Rm 570. Get directions with OpenStreetMap or Google Maps.
 
-When: March 1, 2018. Add to your Google Calendar.
+When: February 22, 2018. Add to your Google Calendar.
 
-Requirements: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). They are also required to abide by Software Carpentry's Code of Conduct.
+Requirements: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). 
 
 Accessibility: We are committed to making this workshop accessible to everybody. The workshop organisers have checked that:
 
@@ -49,28 +49,17 @@ A.M. Data Intro for Librarians
 We will use this collaborative document for chatting, taking notes, and sharing URLs and bits of code.
 
 Syllabus
-Data Intro
-
-    Intro to data
-    Jargon busting
-    Keyboard shortcuts
-    Plain text formats
-    Naming files
-    Regular expressions
-    Reference...
 
 The Unix Shell
 
-    Files and directories
-    History and tab completion
-    Counting and sorting contents in files
-    Pipes and redirection
-    Mining or searching in files
-    Reference...
+1. Introducing the Shell 	
+2. Navigating Files and Directories 	
+3. Working With Files and Directories 	
+4. Pipes and Filters
 
 Setup
 
-To participate in a Library Carpentry workshop, you will need access to the software described below. In addition, you will need an up-to-date web browser.
+You will need access to the software described below. In addition, you will need an up-to-date web browser.
 
 We maintain a list of common issues that occur during installation as a reference for instructors that may be useful on the Configuration Problems and Solutions wiki page.
 The Bash Shell
@@ -123,4 +112,4 @@ Linux
 nano is a basic editor and the default that instructors use in the workshop. It should be pre-installed.
 
 Others editors that you can use are Gedit, Kate or Sublime Text.
-Copyright © 2016 Library Carpentry
+
