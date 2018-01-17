@@ -8,12 +8,9 @@ February 21, 2018
 
 Instructors: Danielle Kane, Laura Smart
 
-Helpers:
-General Information
+General Information: The Unix shell has been around longer than most of its users have been alive. It has survived so long because it’s a power tool that allows people to do complex things with just a few keystrokes. More importantly, it helps them combine existing programs in new ways and automate repetitive tasks so they aren’t typing the same things over and over again. Use of the shell is fundamental to using a wide range of other powerful tools and computing resources (including “high-performance computing” supercomputers). These lessons will start you on a path towards using these resources effectively.
 
-The Unix shell has been around longer than most of its users have been alive. It has survived so long because it’s a power tool that allows people to do complex things with just a few keystrokes. More importantly, it helps them combine existing programs in new ways and automate repetitive tasks so they aren’t typing the same things over and over again. Use of the shell is fundamental to using a wide range of other powerful tools and computing resources (including “high-performance computing” supercomputers). These lessons will start you on a path towards using these resources effectively.
-
-Who: 
+Who: The course is aimed at graduate students and other researchers, including undergrads, faculty, staff and community members. <b>You don't need to have any previous knowledge of the tools that will be presented at the workshop.</b> 
 
 Where: Langson Library Rm 570. Get directions with OpenStreetMap or Google Maps.
 
@@ -30,23 +27,7 @@ Materials will be provided in advance of the workshop and large-print handouts a
 
 Contact: Please email kaned@uci.edu for more information.
 
-Schedule
-
-Surveys
-
-Ask your instructor about pre- and post-workshop Survey details.
-A.M. Data Intro for Librarians
-08:30 	Sign in, coffee
-09:00 	Jargon Busting
-09:15 	Foundations
-10:15 	Break
-10:30 	Regular expressions
-11:15 	Exercises
-11:45 	Lunch break
-
-05:30 	End
-
-We will use this collaborative document for chatting, taking notes, and sharing URLs and bits of code.
+We will use this collaborative document for chatting, taking notes, and sharing URLs and bits of code: https://public.etherpad-mozilla.org/p/UCI_Into_to_Unix_Shell_20182202
 
 Syllabus
 
