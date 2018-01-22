@@ -16,7 +16,7 @@ Who: The course is aimed at graduate students and other researchers, including u
 
 Where: Langson Library Rm 570. Get directions with <a href="https://www.openstreetmap.org/?mlat=33.972643&mlon=%20-117.327482&zoom=16OpenStreetMap">OpenStreetMap</a> or <a href="https://maps.google.com/maps?q=33.972643,%20-117.327482">Google Maps</a>.
 
-When: February 22, 2018. <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Software%20Carpentry%20Workshop&dates=20170921/20170922&trp=false&sprop&sprop=name:&sf=true&output=xml&location=Room%20140,%20Tom%C3%A1s%20Rivera%20Library,%20900%20University%20Ave.,%20Riverside,%20CA%2092521&details=Software%20Carpentry%20Workshop%20at%20UC%20Riverside">Add to your Google Calendar</a>.
+When: February 21, 2018. <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Software%20Carpentry%20Workshop&dates=20170921/20170922&trp=false&sprop&sprop=name:&sf=true&output=xml&location=Room%20140,%20Tom%C3%A1s%20Rivera%20Library,%20900%20University%20Ave.,%20Riverside,%20CA%2092521&details=Software%20Carpentry%20Workshop%20at%20UC%20Riverside">Add to your Google Calendar</a>.
 
 Requirements: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). 
 
