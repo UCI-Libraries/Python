@@ -1,10 +1,10 @@
-# Intro-to-Unix-Shell
+# Unix-Shell Workshop
 
 UCI Libraries
 
-February 21, 2018
+[date]
 
-3:00 pm - 4:30 pm
+[time]
 
 Instructors: Danielle Kane, Laura Smart
 
@@ -31,21 +31,30 @@ Contact: Please email kaned@uci.edu for more information.
 
 We will use this <a href="https://public.etherpad-mozilla.org/p/UCI_Into_to_Unix_Shell_20182202">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code. 
 
+Schedule:
+08:30 	Introductions and Coffee
+09:00 	Automating tasks with the Unix shell
+10:30 	Break
+10:45 	Unix Shell, con't
+13:00 	
+
 Syllabus: The Unix Shell
 
-1. Introducing the Shell 	
-2. Navigating Files and Directories 	
-3. Working With Files and Directories 	
-4. Pipes and Filters
-
+1. Files and directories
+2. History and tab completion
+3. Pipes and redirection
+4. Looping over files
+5. Creating and running shell scripts
+6. Finding things
+ 
 Setup
 
 You will need access to the software described below. In addition, you will need an up-to-date web browser.
 
 We maintain a list of common issues that occur during installation as a reference for instructors that may be useful on the Configuration Problems and Solutions wiki page.
-The Bash Shell
 
-Bash is a commonly-used shell that gives you the power to do simple tasks more quickly.
+The Bash Shell - Bash is a commonly-used shell that gives you the power to do simple tasks more quickly.
+
 Windows
 Video Tutorial
 
@@ -68,29 +77,22 @@ Video Tutorial
         Quit command prompt by typing exit then pressing [Enter]
 
 This will provide you with both Git and Bash in the Git Bash program.
+
 Mac OS X
 
 The default shell in all versions of Mac OS X is Bash, so no need to install anything. You access Bash from the Terminal (found in /Applications/Utilities). See the Git installation video tutorial for an example on how to open the Terminal. You may want to keep Terminal in your dock for this workshop.
+
 Linux
 
 The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing bash. There is no need to install anything.
+
 Text Editor
 
 When you're writing code, it's nice to have a text editor that is optimized for writing code, with features like automatic color-coding of key words. The default text editor on Mac OS X and Linux is usually set to Vim, which is not famous for being intuitive. if you accidentally find yourself stuck in it, try typing the escape key, followed by :q! (colon, lower-case 'q', exclamation mark), then hitting Return to return to the shell.
-Windows
-Video Tutorial
 
-nano is a basic editor and the default that instructors use in the workshop. To install it, download the Library Carpentry Windows installer and double click on the file to run it. This installer requires an active internet connection.
+Windows: nano is a basic editor and the default that instructors use in the workshop. To install it, download the Library Carpentry    Windows installer and double click on the file to run it. This installer requires an active internet connection. Other editors that you can use are Notepad++ or Sublime Text. Be aware that you must add its installation directory to your system path. Please ask your instructor to help you do this.
 
-Others editors that you can use are Notepad++ or Sublime Text. Be aware that you must add its installation directory to your system path. Please ask your instructor to help you do this.
-Mac OS X
+Mac OS X: nano is a basic editor and the default that instructors use in the workshop. See the Git installation video tutorial for an example on how to open nano. It should be pre-installed. Other editors that you can use are Text Wrangler or Sublime Text.
 
-nano is a basic editor and the default that instructors use in the workshop. See the Git installation video tutorial for an example on how to open nano. It should be pre-installed.
-
-Others editors that you can use are Text Wrangler or Sublime Text.
-Linux
-
-nano is a basic editor and the default that instructors use in the workshop. It should be pre-installed.
-
-Others editors that you can use are Gedit, Kate or Sublime Text.
+Linux: nano is a basic editor and the default that instructors use in the workshop. It should be pre-installed. Other editors that you can use are Gedit, Kate or Sublime Text.
 
