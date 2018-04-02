@@ -2,11 +2,11 @@
 
 UCI Libraries
 
-[date]
+May 30, 2018
 
-[time]
+1:00 - 5:00 PM
 
-Instructors: Danielle Kane, Laura Smart
+Instructor(s): Danielle Kane
 
 <b><a href="https://www.eventbrite.com/e/uci-libraries-intro-to-unix-shell-tickets-42326993176">REGISTER HERE</a></b>
 
@@ -14,9 +14,9 @@ General Information: The Unix shell has been around longer than most of its user
 
 Who: The course is aimed at graduate students and other researchers, including undergrads, faculty, staff and community members. <b>You don't need to have any previous knowledge of the tools that will be presented at the workshop.</b> 
 
-Where: Langson Library Rm 570. Get directions with <a href="https://www.openstreetmap.org/?mlat=33.972643&mlon=%20-117.327482&zoom=16OpenStreetMap">OpenStreetMap</a> or <a href="https://maps.google.com/maps?q=33.972643,%20-117.327482">Google Maps</a>.
+Where: Langson Library Rm 570. Get directions with <a href="https://www.openstreetmap.org/#map=17/33.64745/-117.83871">OpenStreetMap</a> or <a href="https://goo.gl/maps/528F8BGTYvJ2">Google Maps</a>.
 
-When: February 21, 2018. <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Software%20Carpentry%20Workshop&dates=20170921/20170922&trp=false&sprop&sprop=name:&sf=true&output=xml&location=Room%20140,%20Tom%C3%A1s%20Rivera%20Library,%20900%20University%20Ave.,%20Riverside,%20CA%2092521&details=Software%20Carpentry%20Workshop%20at%20UC%20Riverside">Add to your Google Calendar</a>.
+When: May 30, 2018. <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Software%20Carpentry%20Workshop&dates=20170921/20170922&trp=false&sprop&sprop=name:&sf=true&output=xml&location=Room%20140,%20Tom%C3%A1s%20Rivera%20Library,%20900%20University%20Ave.,%20Riverside,%20CA%2092521&details=Software%20Carpentry%20Workshop%20at%20UC%20Riverside">Add to your Google Calendar</a>.
 
 Requirements: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). 
 
@@ -32,11 +32,15 @@ Contact: Please email kaned@uci.edu for more information.
 We will use this <a href="https://public.etherpad-mozilla.org/p/UCI_Into_to_Unix_Shell_20182202">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code. 
 
 Schedule:
-08:30 	Introductions and Coffee
-09:00 	Automating tasks with the Unix shell
-10:30 	Break
-10:45 	Unix Shell, con't
-13:00 	
+13:00 	Introducing the Shell
+13:05 	Navigating Files and Directories
+13:45   Working with files and directories
+14:20	Break
+14:35 	Pipes and Filters
+15:00   Loops
+Shell Scripts
+Finding Things
+17:00 	
 
 Syllabus: The Unix Shell
 
