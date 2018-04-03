@@ -16,7 +16,7 @@ Who: The course is aimed at graduate students and other researchers, including u
 
 Where: Langson Library Rm 570. Get directions with <a href="https://www.openstreetmap.org/#map=17/33.64745/-117.83871">OpenStreetMap</a> or <a href="https://goo.gl/maps/528F8BGTYvJ2">Google Maps</a>.
 
-When: May 30, 2018. <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Software%20Carpentry%20Workshop&dates=20170921/20170922&trp=false&sprop&sprop=name:&sf=true&output=xml&location=Room%20140,%20Tom%C3%A1s%20Rivera%20Library,%20900%20University%20Ave.,%20Riverside,%20CA%2092521&details=Software%20Carpentry%20Workshop%20at%20UC%20Riverside">Add to your Google Calendar</a>.
+When: May 30, 2018. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NGZpbGZudmdidXJlbDViN3BxdWpzMDJmbGQga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif">Add to your Google Calendar</a>.
 
 Requirements: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). 
 
@@ -27,11 +27,9 @@ Accessibility: We are committed to making this workshop accessible to everybody.
 
 Materials will be provided in advance of the workshop and large-print handouts are available if needed by notifying the organizers in advance. If we can help making learning easier for you (e.g. sign-language interpreters, lactation facilities) please get in touch (using contact details below) and we will attempt to provide them.
 
-Contact: Please email kaned@uci.edu for more information.
+Contact: Please email Danielle Kane at kaned@uci.edu for more information.
 
-We will use this <a href="https://public.etherpad-mozilla.org/p/UCI_Into_to_Unix_Shell_20182202">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code. 
-
-Schedule:
+**Schedule:**
 13:00 	Introducing the Shell
 13:05 	Navigating Files and Directories
 13:50   Working with files and directories
@@ -51,13 +49,13 @@ Syllabus: The Unix Shell
 5. Creating and running shell scripts
 6. Finding things
  
-Setup
+**Setup**
 
 You will need access to the software described below. In addition, you will need an up-to-date web browser.
 
 We maintain a list of common issues that occur during installation as a reference for instructors that may be useful on the Configuration Problems and Solutions wiki page.
 
-The Bash Shell - Bash is a commonly-used shell that gives you the power to do simple tasks more quickly.
+**The Bash Shell** - Bash is a commonly-used shell that gives you the power to do simple tasks more quickly.
 
 Windows
 Video Tutorial
@@ -82,15 +80,11 @@ Video Tutorial
 
 This will provide you with both Git and Bash in the Git Bash program.
 
-Mac OS X
+Mac OS X: The default shell in all versions of Mac OS X is Bash, so no need to install anything. You access Bash from the Terminal (found in /Applications/Utilities). See the Git installation video tutorial for an example on how to open the Terminal. You may want to keep Terminal in your dock for this workshop.
 
-The default shell in all versions of Mac OS X is Bash, so no need to install anything. You access Bash from the Terminal (found in /Applications/Utilities). See the Git installation video tutorial for an example on how to open the Terminal. You may want to keep Terminal in your dock for this workshop.
+Linux: The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing bash. There is no need to install anything.
 
-Linux
-
-The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing bash. There is no need to install anything.
-
-Text Editor
+**Text Editor**
 
 When you're writing code, it's nice to have a text editor that is optimized for writing code, with features like automatic color-coding of key words. The default text editor on Mac OS X and Linux is usually set to Vim, which is not famous for being intuitive. if you accidentally find yourself stuck in it, try typing the escape key, followed by :q! (colon, lower-case 'q', exclamation mark), then hitting Return to return to the shell.
 
