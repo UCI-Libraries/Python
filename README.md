@@ -8,7 +8,7 @@ May 30, 2018
 
 Instructor(s): Danielle Kane
 
-<b><a href="https://www.eventbrite.com/e/uci-libraries-intro-to-unix-shell-tickets-42326993176">REGISTER HERE</a></b>
+<b><a href="https://www.eventbrite.com/e/unix-shell-workshop-tickets-44809766217">REGISTER HERE</a></b>
 
 General Information: The Unix shell has been around longer than most of its users have been alive. It has survived so long because it’s a power tool that allows people to do complex things with just a few keystrokes. More importantly, it helps them combine existing programs in new ways and automate repetitive tasks so they aren’t typing the same things over and over again. Use of the shell is fundamental to using a wide range of other powerful tools and computing resources (including “high-performance computing” supercomputers). These lessons will start you on a path towards using these resources effectively.
 
@@ -34,13 +34,13 @@ We will use this <a href="https://public.etherpad-mozilla.org/p/UCI_Into_to_Unix
 Schedule:
 13:00 	Introducing the Shell
 13:05 	Navigating Files and Directories
-13:45   Working with files and directories
-14:20	Break
-14:35 	Pipes and Filters
-15:00   Loops
-Shell Scripts
-Finding Things
-17:00 	
+13:50   Working with files and directories
+14:25 	Pipes and Filters
+14:35	Break
+15:10   Loops
+15:30   Shell Scripts
+16:15   Finding Things
+17:00 	Conclusion
 
 Syllabus: The Unix Shell
 
