@@ -30,7 +30,7 @@ Materials will be provided in advance of the workshop and large-print handouts a
 **Contact:** Please email Danielle Kane at kaned@uci.edu for more information.
 
 **Schedule:**
-13:00 	Introducing the Shell
+13:00 	Introducing the Shell<br>
 13:05 	Navigating Files and Directories
 13:50   Working with files and directories
 14:25 	Pipes and Filters
