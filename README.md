@@ -29,17 +29,6 @@ Materials will be provided in at the workshop and large-print handouts are avail
 
 **Contact:** Please email Danielle Kane at kaned@uci.edu for more information.
 
-**Schedule:**<br>
-8:00 	Introducing the Shell<br>
-8:05 	Navigating Files and Directories<br>
-8:50   Working with files and directories<br>
-9:25 	Pipes and Filters<br>
-9:35	Break<br>
-10:10   Loops<br>
-10:30   Shell Scripts<br>
-11:15   Finding Things<br>
-12:00 	Conclusion<br>
-
 Syllabus: The Unix Shell
 
 1. Files and directories
