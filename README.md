@@ -2,13 +2,13 @@
 
 UCI Libraries
 
-Wednesday May 30, 2018
+Thursday November 8, 2018
 
-1:00 - 5:00 PM
+8:30 AM - 12:30 PM
 
-Instructor(s): Danielle Kane
+Instructor(s): Danielle Kane, Madelynn Dickerson
 
-<b><a href="https://www.eventbrite.com/e/unix-shell-workshop-tickets-44809766217">REGISTER HERE</a></b>
+<b><a href="https://www.eventbrite.com/e/unix-shell-workshop-tickets-49565808668">REGISTER HERE</a></b>
 
 **General Information:** The Unix shell has been around longer than most of its users have been alive. It has survived so long because it’s a power tool that allows people to do complex things with just a few keystrokes. More importantly, it helps them combine existing programs in new ways and automate repetitive tasks so they aren’t typing the same things over and over again. Use of the shell is fundamental to using a wide range of other powerful tools and computing resources (including “high-performance computing” supercomputers). These lessons will start you on a path towards using these resources effectively.
 
@@ -16,7 +16,7 @@ Instructor(s): Danielle Kane
 
 **Where:** Langson Library Rm 570. Get directions with <a href="https://www.openstreetmap.org/#map=17/33.64745/-117.83871">OpenStreetMap</a> or <a href="https://goo.gl/maps/528F8BGTYvJ2">Google Maps</a>.
 
-**When:** May 30, 2018. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NGZpbGZudmdidXJlbDViN3BxdWpzMDJmbGQga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif">Add to your Google Calendar</a>.
+**When:** November 8, 2018. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NGZpbGZudmdidXJlbDViN3BxdWpzMDJmbGQga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif">Add to your Google Calendar</a>.
 
 **Requirements:** Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). 
 
@@ -25,20 +25,20 @@ Instructor(s): Danielle Kane
     The room is wheelchair / scooter accessible.
     Accessible restrooms are available.
 
-Materials will be provided in advance of the workshop and large-print handouts are available if needed by notifying the organizers in advance. If we can help making learning easier for you (e.g. sign-language interpreters, lactation facilities) please get in touch (using contact details below) and we will attempt to provide them.
+Materials will be provided in at the workshop and large-print handouts are available if needed by notifying the organizers in advance. If we can help making learning easier for you (e.g. sign-language interpreters, lactation facilities) please get in touch (using contact details below) and we will attempt to provide them.
 
 **Contact:** Please email Danielle Kane at kaned@uci.edu for more information.
 
 **Schedule:**<br>
-13:00 	Introducing the Shell<br>
-13:05 	Navigating Files and Directories<br>
-13:50   Working with files and directories<br>
-14:25 	Pipes and Filters<br>
-14:35	Break<br>
-15:10   Loops<br>
-15:30   Shell Scripts<br>
-16:15   Finding Things<br>
-17:00 	Conclusion<br>
+8:00 	Introducing the Shell<br>
+8:05 	Navigating Files and Directories<br>
+8:50   Working with files and directories<br>
+9:25 	Pipes and Filters<br>
+9:35	Break<br>
+10:10   Loops<br>
+10:30   Shell Scripts<br>
+11:15   Finding Things<br>
+12:00 	Conclusion<br>
 
 Syllabus: The Unix Shell
 
