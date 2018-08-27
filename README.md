@@ -42,12 +42,10 @@ You will need access to the software described below. In addition, you will need
 
 We maintain a list of common issues that occur during installation as a reference for instructors that may be useful on the Configuration Problems and Solutions wiki page.
 
-**The Bash Shell** - Bash is a commonly-used shell that gives you the power to do simple tasks more quickly.
+**The Bash Shell**
 
-Windows
-Video Tutorial
+Bash is a commonly-used shell that gives you the power to do simple tasks more quickly. <a href"https://gitforwindows.org">Download the Git for Windows installer</a>.
 
-    Download the Git for Windows installer.
     Run the installer and follow the steps bellow:
         Click on "Next".
         Click on "Next".
