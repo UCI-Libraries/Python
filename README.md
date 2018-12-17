@@ -1,20 +1,22 @@
 UCI Libraries
 
-Thursday November 8, 2018
+Thursday January 31, 2019
 
 8:30 AM - 12:30 PM
 
 Instructor(s): Danielle Kane, Madelynn Dickerson
 
-<b><a href="https://www.eventbrite.com/e/unix-shell-workshop-tickets-49565808668">REGISTER HERE</a></b>
+<b><a href="https://www.eventbrite.com/e/intro-to-unix-shell-tickets-53820982006">REGISTER HERE</a></b>
+
+Please Note: You must be a UCI affiliate to register, please contact kaned@uci.edu if you are not a member of the UCI community to see if there is room before registering
 
 **General Information:** The Unix shell has been around longer than most of its users have been alive. It has survived so long because it’s a power tool that allows people to do complex things with just a few keystrokes. More importantly, it helps them combine existing programs in new ways and automate repetitive tasks so they aren’t typing the same things over and over again. Use of the shell is fundamental to using a wide range of other powerful tools and computing resources (including “high-performance computing” supercomputers). These lessons will start you on a path towards using these resources effectively.
 
 **Who:** The course is aimed at graduate students and other researchers, including undergrads, faculty, staff and community members. <b>You don't need to have any previous knowledge of the tools that will be presented at the workshop.</b> 
 
-**Where:** Langson Library Rm 570. Get directions with <a href="https://www.openstreetmap.org/#map=17/33.64745/-117.83871">OpenStreetMap</a> or <a href="https://goo.gl/maps/528F8BGTYvJ2">Google Maps</a>.
+**Where:** Langson Library Rm 228. Get directions with <a href="https://www.openstreetmap.org/#map=17/33.64745/-117.83871">OpenStreetMap</a> or <a href="https://goo.gl/maps/528F8BGTYvJ2">Google Maps</a>.
 
-**When:** November 8, 2018. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=Nmhkc2U0dHUzYmxnaWE5cmpydXRhYmYwNmUga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif">Add to your Google Calendar</a>.
+**When:** January 31, 2019. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=Nmhkc2U0dHUzYmxnaWE5cmpydXRhYmYwNmUga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif">Add to your Google Calendar</a>.
 
 **Requirements:** Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). 
 
