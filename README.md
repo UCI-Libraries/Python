@@ -1,10 +1,10 @@
 UCI Libraries
 
-Thursday January 31, 2019
+Tuesday February 26, 2019 & Thursday February 28, 2019
 
-8:30 AM - 12:30 PM
+1:00 PM - 5:00 PM
 
-Instructor(s): Danielle Kane, Madelynn Dickerson
+Instructor(s): Danielle Kane
 
 <b><a href="https://www.eventbrite.com/e/intro-to-unix-shell-tickets-53820982006">REGISTER HERE</a></b>
 
@@ -31,12 +31,13 @@ Materials will be provided in at the workshop and large-print handouts are avail
 
 Syllabus: The Unix Shell
 
-1. Files and directories
-2. History and tab completion
-3. Pipes and redirection
-4. Looping over files
-5. Creating and running shell scripts
-6. Finding things
+1. Using libraries
+2. Working with arrays
+3. Reading and plotting data
+4. Creating and using functions
+5. Loops and conditionals
+6. Defensive programming
+U7. sing Python from the command line
  
 **Setup**
 
@@ -71,14 +72,65 @@ Mac OS X: The default shell in all versions of Mac OS X is Bash, so no need to i
 
 Linux: The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing bash. There is no need to install anything.
 
-**Text Editor**
 
-When you're writing code, it's nice to have a text editor that is optimized for writing code, with features like automatic color-coding of key words. The default text editor on Mac OS X and Linux is usually set to Vim, which is not famous for being intuitive. if you accidentally find yourself stuck in it, try typing the escape key, followed by :q! (colon, lower-case 'q', exclamation mark), then hitting Return to return to the shell.
- 
-Windows: nano is a basic editor and the default that instructors use in the workshop. It is installed along with Git. Other editors that you can use are Notepad++ or Sublime Text. Be aware that you must add its installation directory to your system path. Please ask your instructor to help you do this. 
+Python
 
-macOS: nano is a basic editor and the default that instructors use in the workshop. See the Git installation video tutorial for an example on how to open nano. It should be pre-installed. Other editors that you can use are Text Wrangler or Sublime Text.
+Python is a popular language for research computing, and great for general-purpose programming as well. Installing all of its research packages individually can be a bit difficult, so we recommend Anaconda, an all-in-one installer.
 
-Linux: nano is a basic editor and the default that instructors use in the workshop. It should be pre-installed. Other editors that you can use are Gedit, Kate or Sublime Text.
+<p>
+  Regardless of how you choose to install it,
+  <strong>please make sure you install Python version 3.x</strong>
+  (e.g., 3.6 is fine).
+</p>
+
+<p>
+  We will teach Python using the <a href="https://jupyter.org/">Jupyter notebook</a>,
+  a programming environment that runs in a web browser. For this to work you will need a reasonably
+  up-to-date browser. The current versions of the Chrome, Safari and
+  Firefox browsers are all
+  <a href="https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility">supported</a>
+  (some older browsers, including Internet Explorer version 9
+  and below, are not).
+</p>
+
+Windows
+Video Tutorial
+
+    Open https://www.anaconda.com/download/#windows with your web browser.
+    Download the Python 3 installer for Windows.
+    Install Python 3 using all of the defaults for installation except make sure to check Make Anaconda the default Python.
+
+macOS
+Video Tutorial
+
+    Open https://www.anaconda.com/download/#macos with your web browser.
+    Download the Python 3 installer for OS X.
+    Install Python 3 using all of the defaults for installation.
+
+Linux
+
+    Open https://www.anaconda.com/download/#linux with your web browser.
+    Download the Python 3 installer for Linux.
+    (The installation requires using the shell. If you aren't comfortable doing the installation yourself stop here and request help at the workshop.)
+    Open a terminal window.
+    Type
+
+    bash Anaconda3-
+
+    and then press tab. The name of the file you just downloaded should appear. If it does not, navigate to the folder where you downloaded the file, for example with:
+
+    cd Downloads
+
+    Then, try again.
+    Press enter. You will follow the text-only prompts. To move through the text, press the space key. Type yes and press enter to approve the license. Press enter to approve the default location for the files. Type yes and press enter to prepend Anaconda to your PATH (this makes the Anaconda distribution the default Python).
+    Close the terminal window.
+
+{% comment %}
+
+Once you are done installing the software listed above, please go to this page, which has instructions on how to test that everything was installed correctly.
+{% endcomment %}
+{% comment %} End of 'Python' section. {% endcomment %} 
+
+
 
 
