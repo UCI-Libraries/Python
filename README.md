@@ -73,7 +73,7 @@ Mac OS X: The default shell in all versions of Mac OS X is Bash, so no need to i
 Linux: The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing bash. There is no need to install anything.
 
 
-Python
+**Python**
 
 Python is a popular language for research computing, and great for general-purpose programming as well. Installing all of its research packages individually can be a bit difficult, so we recommend Anaconda, an all-in-one installer.
 
@@ -94,43 +94,25 @@ Python is a popular language for research computing, and great for general-purpo
 </p>
 
 Windows
-Video Tutorial
+Video Tutorial: https://www.youtube.com/watch?v=xxQ0mzZ8UvA
 
-    Open https://www.anaconda.com/download/#windows with your web browser.
-    Download the Python 3 installer for Windows.
-    Install Python 3 using all of the defaults for installation except make sure to check Make Anaconda the default Python.
+    1. Open https://www.anaconda.com/download/#windows with your web browser.
+    2. Download the Python 3 installer for Windows.
+    3. Install Python 3 using all of the defaults for installation except make sure to check Make Anaconda the default Python.
 
 macOS
-Video Tutorial
+Video Tutorial: https://www.youtube.com/watch?v=TcSAln46u9U
 
-    Open https://www.anaconda.com/download/#macos with your web browser.
-    Download the Python 3 installer for OS X.
-    Install Python 3 using all of the defaults for installation.
+    1. Open https://www.anaconda.com/download/#macos with your web browser.
+    2. Download the Python 3 installer for OS X.
+    3. Install Python 3 using all of the defaults for installation.
 
 Linux
 
-    Open https://www.anaconda.com/download/#linux with your web browser.
-    Download the Python 3 installer for Linux.
+    1. Open https://www.anaconda.com/download/#linux with your web browser.
+    2. Download the Python 3 installer for Linux.
     (The installation requires using the shell. If you aren't comfortable doing the installation yourself stop here and request help at the workshop.)
-    Open a terminal window.
-    Type
-
-    bash Anaconda3-
-
-    and then press tab. The name of the file you just downloaded should appear. If it does not, navigate to the folder where you downloaded the file, for example with:
-
-    cd Downloads
-
-    Then, try again.
-    Press enter. You will follow the text-only prompts. To move through the text, press the space key. Type yes and press enter to approve the license. Press enter to approve the default location for the files. Type yes and press enter to prepend Anaconda to your PATH (this makes the Anaconda distribution the default Python).
-    Close the terminal window.
-
-{% comment %}
-
-Once you are done installing the software listed above, please go to this page, which has instructions on how to test that everything was installed correctly.
-{% endcomment %}
-{% comment %} End of 'Python' section. {% endcomment %} 
-
-
-
-
+    3. Open a terminal window.
+    4. Type: bash Anaconda3-and then press tab. The name of the file you just downloaded should appear. If it does not, navigate to the folder where you downloaded the file, for example with: cd Downloads. Then, try again.
+    5. Press enter. You will follow the text-only prompts. To move through the text, press the space key. Type yes and press enter to approve the license. Press enter to approve the default location for the files. Type yes and press enter to prepend Anaconda to your PATH (this makes the Anaconda distribution the default Python).
+    6. Close the terminal window.
