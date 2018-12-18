@@ -6,17 +6,17 @@ Tuesday February 26, 2019 & Thursday February 28, 2019
 
 Instructor(s): Danielle Kane
 
-<b><a href="https://www.eventbrite.com/e/intro-to-unix-shell-tickets-53820982006">REGISTER HERE</a></b>
+<b><a href="https://www.eventbrite.com/e/uci-libraries-programming-with-python-tickets-53882449858">REGISTER HERE</a></b>
 
 Please Note: You must be a UCI affiliate to register, please contact kaned@uci.edu if you are not a member of the UCI community to see if there is room before registering
 
-**General Information:** The Unix shell has been around longer than most of its users have been alive. It has survived so long because it’s a power tool that allows people to do complex things with just a few keystrokes. More importantly, it helps them combine existing programs in new ways and automate repetitive tasks so they aren’t typing the same things over and over again. Use of the shell is fundamental to using a wide range of other powerful tools and computing resources (including “high-performance computing” supercomputers). These lessons will start you on a path towards using these resources effectively.
+**General Information:** Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace. It provides constructs that enable clear programming on both small and large scales.  The best way to learn how to program is to do something useful, so this introduction to Python is built around a common scientific task: data analysis.
 
 **Who:** The course is aimed at graduate students and other researchers, including undergrads, faculty, staff and community members. <b>You don't need to have any previous knowledge of the tools that will be presented at the workshop.</b> 
 
 **Where:** Langson Library Rm 228. Get directions with <a href="https://www.openstreetmap.org/#map=17/33.64745/-117.83871">OpenStreetMap</a> or <a href="https://goo.gl/maps/528F8BGTYvJ2">Google Maps</a>.
 
-**When:** January 31, 2019. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=Nmhkc2U0dHUzYmxnaWE5cmpydXRhYmYwNmUga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif">Add to your Google Calendar</a>.
+**When:** February 26, 2019 & February 28, 2019. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=Nmhkc2U0dHUzYmxnaWE5cmpydXRhYmYwNmUga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif">Add to your Google Calendar</a>.
 
 **Requirements:** Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). 
 
@@ -29,7 +29,7 @@ Materials will be provided in at the workshop and large-print handouts are avail
 
 **Contact:** Please email Danielle Kane at kaned@uci.edu for more information.
 
-Syllabus: The Unix Shell
+Syllabus: Programming with Python
 
 1. Using libraries
 2. Working with arrays
