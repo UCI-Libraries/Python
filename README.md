@@ -1,10 +1,11 @@
 UCI Libraries Digital Scholarship Services
 
-Wednesday May 1, 2019 & Friday May 3, 2019
+Tuesday November 12, 2019 & Thursday November 14, 2019
 
 1:00 PM - 5:00 PM
 
 Instructor(s): Danielle Kane
+Helper(s): Shu Liu
 
 <b><a href="https://www.eventbrite.com/e/uci-libraries-programming-with-python-tickets-60088155290">REGISTER HERE</a></b>
 
